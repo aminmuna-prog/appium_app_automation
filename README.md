@@ -15,6 +15,6 @@
 ### Test allure report:
 ![appium_behavior](https://github.com/user-attachments/assets/99f4f877-0123-41c5-8059-78d0fb36bd71)
 ### Video of the automation execution:
-https://drive.google.com/file/d/1LqnI1eojMdMHYazIYx1EqEmGoH9Ekmr3/view?usp=sharing
+[watch here](https://drive.google.com/file/d/1LqnI1eojMdMHYazIYx1EqEmGoH9Ekmr3/view?usp=sharing)
 
 
